@@ -1,7 +1,9 @@
+
+
 #Abstract
 
 This is a team roster scheduling template created by me (primarily for VALORANT Premier). 
-NOTE: This speadsheet was created in Google Sheets. There will be some inconsistancies when using this file in Microsoft Excel.
+**NOTE: This speadsheet was created in Google Sheets. There will be some inconsistancies when using this file in Microsoft Excel.**
 
 ##Features
 - Dynamic updating for up to 10 roster spots, including player names, substitution status, and schedule
