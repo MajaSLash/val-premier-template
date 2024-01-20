@@ -7,6 +7,7 @@ This is a team roster scheduling template created by me (primarily for VALORANT 
 - Dynamic updating for up to 10 roster spots, including player names, substitution status, and schedule
 - Schedule listing is both horizontal and vertical (so you don't have to deal with that pesky horizontal scroll bar)
 - 'Game Ready?'/'Playing?'/'Subs Available?' status highlights when requirements are met
+- 'Result Tracking' system, including a calculation for wins required to make playoffs
 
 ## Getting Started
 1. Download the PREMIER SCHEDULE TEMPLATE.xlsx file.
