@@ -27,6 +27,11 @@ This is a team roster scheduling template created by me (primarily for VALORANT 
 - History tracker with win percentage of each map, team composition, and player
 - Statistics tracker of each player in a 'match report' system
 
+**Discord Bot Integration coming soon!**
+- Automated announcements on game days
+- Roster listing
+- Announcements of schedule changes/updates
+
 ## Want to Help Develop this Project?
 - Contact me over Discord: majaslash
 - Suggestions? Reach out to me (via Email): xiosoft@hotmail.com
